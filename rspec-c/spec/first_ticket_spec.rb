@@ -1,6 +1,6 @@
 
 
 
-Rspec.describe 'Math calculations' do
+RSpec.describe 'Math calculations' do
 
 end
