@@ -1,0 +1,7 @@
+gem 'rake'
+gem 'rspec'
+gem 'kramdown'
+gem 'bundler'
+gem 'rspec-core'
+gem 'rspec-expectations'
+gem 'rspec-mocks'
